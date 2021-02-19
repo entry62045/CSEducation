@@ -8,3 +8,7 @@
 /cs1/obj/Debug
 /cs3/bin/Debug/cs3.exe.config
 /cs3/bin/Debug/cs3.pdb
+/cs2/obj/Debug
+*.config
+/cs2/Properties
+*.pdb
