@@ -10,6 +10,10 @@ namespace cs3
     {
         static void Main(string[] args)
         {
+            Console.Write("본인의 엔트리 닉네임을 입력해보세요! ");
+            string a = Console.ReadLine();
+            Console.WriteLine(a + "님 안녕하세요!");
+            Console.ReadKey();
         }
     }
 }

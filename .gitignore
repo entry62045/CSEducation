@@ -1,0 +1,10 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/cs3/obj/Debug
+/cs3/Properties
+/cs3/App.config
+/cs1/obj/Debug
+/cs3/bin/Debug/cs3.exe.config
+/cs3/bin/Debug/cs3.pdb
