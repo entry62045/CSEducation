@@ -12,3 +12,5 @@
 *.config
 /cs2/Properties
 *.pdb
+/cs4/obj/Debug
+/cs4/Properties
